@@ -1,0 +1,4 @@
+﻿Is a company,customer,supplier,Name,Parent Company,Address type,street,street2,city,state,zip,country,email,phone,fax,mobile,credit_limit,debit_limit,website
+TRUE,TRUE,,Farmer Produce,,Default,,,,,,,,,,,,,
+TRUE,TRUE,,GREAT RAPIDS COMPANY,,Default,,,,,,,,,,,,,
+FALSE,TRUE,,Name of Shipping Address 1,GREAT RAPIDS COMPANY,Shipping,,,,,,,,,,,,,
